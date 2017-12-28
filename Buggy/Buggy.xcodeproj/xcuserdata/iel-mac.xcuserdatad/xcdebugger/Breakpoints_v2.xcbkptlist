@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "badMethod"
+            moduleName = "">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buggy.ViewController.badMethod () -&gt; ()"
+                  moduleName = "Buggy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iel-mac/Documents/iosProjTests/bigNerdRanch/Buggy/Buggy/Buggy/ViewController.swift"
+                  timestampString = "520746265.972401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc Buggy.ViewController.badMethod () -&gt; ()"
+                  moduleName = "Buggy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iel-mac/Documents/iosProjTests/bigNerdRanch/Buggy/Buggy/Buggy/ViewController.swift"
+                  timestampString = "520746265.975109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
